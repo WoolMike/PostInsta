@@ -1,0 +1,36 @@
+body{
+    background: grey;
+}
+
+.postbody{
+    background: white;
+    width: 500px;
+    height: 800px;
+    margin:auto;
+}
+.post-header{
+    display: flex
+}
+.post-header h1:first-child{
+margin-right: auto;
+    width: 90%;
+}
+.post-header h1:last-child{
+    width: 10%;
+    text-align: center;
+    margin: auto;
+}
+.postbody img{
+    width: 500px;
+    height: 500px;
+}
+.posticons{
+    display: flex;
+}
+.posticons h1{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.posticons h1:last-child{
+    margin-left: 355px;
+}
