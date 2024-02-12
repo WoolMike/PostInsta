@@ -26,6 +26,7 @@ margin-right: auto;
 }
 .posticons{
     display: flex;
+    padding-left: 15px;
 }
 .posticons h1{
     margin-top: 5px;
@@ -33,4 +34,7 @@ margin-right: auto;
 }
 .posticons h1:last-child{
     margin-left: 355px;
+}
+.postbody p{
+    padding-left: 15px;
 }
